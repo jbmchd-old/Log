@@ -7,7 +7,7 @@ Installation
 `Soflomo\Log` is available through composer. Add "soflomo/log" to your composer.json list. During development of `Soflomo\Log`, you can specify the latest available version:
 
 ```
-"soflomo/log": "dev-master"
+"jbmchd/log": "dev-master"
 ```
 
 Enable the module in your `config/application.config.php` file. Add an entry `Soflomo\Log` to the list of enabled modules. Logging should work out of the box.
