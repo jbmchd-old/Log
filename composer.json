@@ -1,5 +1,5 @@
 {
-    "name": "soflomo/log",
+    "name": "jbmchd/log",
     "description": "Small module to help with logging aware classes",
     "license": "BSD-3-Clause",
     "type": "library",
